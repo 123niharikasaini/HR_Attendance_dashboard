@@ -49,6 +49,9 @@ The dashboard tracks key workforce metrics including:
 2. Identified weekday trends, with highest WFH preference on Fridays (~16%).
 3. Noted consistent presence levels despite rising WFH, indicating a shift toward hybrid work patterns.
 
+### Dashboard
+https://github.com/123niharikasaini/HR_Attendance_dashboard/blob/main/Snapshot%20of%20HR%20analysis%20Dashboard.png
+
 ### Conclusion
 
 The dashboard provides a clear view of employee attendance behavior and evolving work preferences. It empowers HR teams to make data-driven decisions, optimize hybrid work strategies, and improve overall workforce management.
